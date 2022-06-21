@@ -1,0 +1,22 @@
+{
+  "name": "shortbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "shortid": "^2.2.16",
+    "sqlite": "^4.1.1",
+    "sqlite3": "^5.0.8",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
